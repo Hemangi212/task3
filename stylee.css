@@ -1,0 +1,16 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css');
+form {
+    margin-bottom: 20px;
+}
+
+button[type="button"],
+button[type="submit"] {
+    color: white;
+    background-color: green;
+    cursor: pointer;
+}
+
+button[type="button"]:hover,
+button[type="submit"]:hover {
+    background-color: #007700;
+}
